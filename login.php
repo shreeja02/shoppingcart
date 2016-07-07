@@ -11,6 +11,7 @@ session_start();
 </head>
 <body>
 <?php
+//gfklsgklsglksdfglksdfgjksdfgjdlsfglkdf
             if(isset($_POST["ans"])){
               include 'databaseclass.php';
               $obj=new databaseclass();
